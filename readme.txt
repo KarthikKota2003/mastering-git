@@ -1,3 +1,3 @@
-Hello Git!
-Adding a change from test-branch3
+Hello Git from mc-branch1
+Adding a change from mc-branch1
 Adding a change from remote
